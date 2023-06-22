@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="sl" xml:lang="sl" SourceLanguage="en-us" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="">
+    <ProjectFile Source="Target/Robert-Testing.flprj" Target="Target/Robert-Testing.flprj" />
+</LingoProject>
